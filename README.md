@@ -15,7 +15,7 @@
 
 2026-02-10 你的日记 ～Euforia～ AI汉化补丁
 
-2026-XX-XX
+2026-02-22 新婚夫妇 ～Sweet Sweet honeymoon～ AI汉化补丁
 
 2026-XX-XX
 
